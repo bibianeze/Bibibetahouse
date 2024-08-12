@@ -1,0 +1,6 @@
+
+        .bg-landing {
+            background-image: url('../assets/bdimage.png');
+            background-size: cover;
+            background-position: cover;
+        }
